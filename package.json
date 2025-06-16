@@ -1,0 +1,22 @@
+{
+  "name": "juming-scripts",
+  "version": "1.0.0",
+  "description": "jumin cli",
+  "main": "index.ts",
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yuexihuachen/juming-scripts.git"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "author": "王龙",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuexihuachen/juming-scripts/issues"
+  },
+  "homepage": "https://github.com/yuexihuachen/juming-scripts#readme"
+}
