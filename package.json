@@ -18,5 +18,17 @@
   "bugs": {
     "url": "https://github.com/yuexihuachen/juming-scripts/issues"
   },
-  "homepage": "https://github.com/yuexihuachen/juming-scripts#readme"
+  "homepage": "https://github.com/yuexihuachen/juming-scripts#readme",
+  "packageManager": "pnpm@10.11.1+sha512.e519b9f7639869dc8d5c3c5dfef73b3f091094b0a006d7317353c72b124e80e1afd429732e28705ad6bfa1ee879c1fce46c128ccebd3192101f43dd67c667912",
+  "dependencies": {
+    "@types/cross-spawn": "^6.0.6",
+    "@types/node": "^24.0.3",
+    "@types/npm-which": "^3.0.4",
+    "@types/resolve": "^1.20.6",
+    "@types/which": "^3.0.4",
+    "cross-spawn": "^7.0.6",
+    "npm-which": "^3.0.1",
+    "resolve": "^1.22.10",
+    "which": "^5.0.0"
+  }
 }
